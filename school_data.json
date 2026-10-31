@@ -1,0 +1,26 @@
+{
+    "students": {
+        "gy/09/2026": {
+            "admission_no": "gy/09/2026",
+            "name": "poi",
+            "age": 23,
+            "course": "software",
+            "marks": {
+                "software dev": 45.0
+            },
+            "attendance": [
+                {
+                    "date": "2026-10-31",
+                    "status": "Present"
+                }
+            ]
+        }
+    },
+    "teachers": {
+        "34/gy": {
+            "teacher_id": "34/gy",
+            "name": "mnbv",
+            "subject": "software"
+        }
+    }
+}
