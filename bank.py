@@ -83,7 +83,7 @@ class Bank:
         if not os.path.exists("bank_data.json"):
             return
         try:
-            with open("bank_data.json," "r") as file:
+            with open("bank_data.json","r") as file:
                 data = json.load(file)
             for number, details in data.items():
                 if details["type"] == "Savings Account":
