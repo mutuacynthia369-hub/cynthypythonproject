@@ -1,0 +1,20 @@
+{
+    "8092406594": {
+        "name": "wert nui",
+        "pin": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "balance": 200.0,
+        "type": "Savings Account",
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 1200.0,
+                "date": "2026-10-31 17:49:35"
+            },
+            {
+                "type": "withdrawal",
+                "amount": 1000.0,
+                "date": "2026-10-31 17:50:03"
+            }
+        ]
+    }
+}
