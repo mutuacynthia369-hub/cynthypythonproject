@@ -1,0 +1,10 @@
+{
+    "customers": {
+        "C001": {
+            "name": "dert",
+            "phone": "0712345678",
+            "vip": false
+        }
+    },
+    "bookings": {}
+}
